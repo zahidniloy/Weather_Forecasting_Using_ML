@@ -34,17 +34,18 @@ Each folder contains:
 ## Model Evaluation Snapshots
 
 ### 🔷 KNN Model Evaluation (Exercise 1.4)
-![KNN Evaluation](./3.png)
+![KNN Evaluation] ![3](https://github.com/user-attachments/assets/53f37050-8359-46ff-8e1b-269fb2bd3506)
+
 
 ---
 
 ### 🔶 Decision Tree Model – Confusion Matrices (Exercise 1.5)
-![Decision Tree Confusion](./2.png)
+![Decision Tree Confusion](![2] ![2](https://github.com/user-attachments/assets/0e345760-038a-4b50-b293-97fc685bed34)
 
 ---
 
 ### 🔷 ANN Model – Confusion Matrices (Exercise 1.5)
-![ANN Confusion](./1.png)
+![ANN Confusion](![1] ![1](https://github.com/user-attachments/assets/450dd709-9c77-4d04-9443-0514f6256c6e)
 
 ---
 
