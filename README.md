@@ -51,7 +51,9 @@ Each folder contains:
 
 ## Presentation & Analysis
 
-Coming soon: Slide decks and recorded summaries for each major milestone.
+Here is the link to the video presentation:
+
+https://vimeo.com/1093478247/1ece288587?ts=0&share=copy
 
 ---
 
